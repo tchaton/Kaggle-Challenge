@@ -1,2 +1,7 @@
 # Kaggle-Challenge
-Code ayant l'objectif d'apported des reponses aux challenges Kaggle
+
+## ALLSTATE CLAIM CHALLENGE
+Notebooks with our solutions
+
+## AML COURSES 
+Notebooks of code we implemented in order to get us to SPARK.
